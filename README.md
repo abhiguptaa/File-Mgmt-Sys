@@ -122,6 +122,7 @@ service
     Here Iaas is being implement as a virtual machine has been created. 
     ![image](https://user-images.githubusercontent.com/85796313/184662944-2a4668fc-c484-4208-9329-5635494b030a.png)
     
+    
     ![image](https://user-images.githubusercontent.com/85796313/184662974-9d928d1d-f68d-4ace-87db-9f8ce9d7701a.png)
     The url mentioned specifies that our application has been hosted. 
     
